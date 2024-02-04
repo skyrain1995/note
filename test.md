@@ -11,4 +11,4 @@ public class UserService extends GzoneServiceImpl<UserMapper, User> {
 }
 ```
 
-![](Pasted%20image%2020240204160139.png)
+![](Pasted%20image%2020240204160251.png)
