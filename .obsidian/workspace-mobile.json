@@ -72,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "13e14e61837349a2",
@@ -130,6 +131,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "26a3ddea9692d5c1",
-  "lastOpenFiles": []
+  "active": "0497ee7dddc14141",
+  "lastOpenFiles": [
+    "assets/Pasted image 20240204160306.png",
+    "assets/Pasted image 20240203174401.png",
+    "assets/5x3b3xpusp46hpu.jpeg",
+    "test.md"
+  ]
 }
