@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae2a1d4d11b12e4e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,13 +157,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a98b66ca5f51bfd8",
+  "active": "ae2a1d4d11b12e4e",
   "lastOpenFiles": [
+    "2024-04-14.md",
     "assets/Pasted image 20240204160556.png",
     "assets/Pasted image 20240204160306.png",
-    "assets/Pasted image 20240203174401.png",
     "assets/Pasted image 20240204160251.png",
+    "assets/Pasted image 20240203174401.png",
+    "assets/5x3b3xpusp46hpu.jpeg",
     "test.md",
+    "未命名.canvas",
     "Pasted image 20240204160139.png"
   ]
 }
